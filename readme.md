@@ -5,7 +5,6 @@
 
 ### Integrante:
 
-** Alfa ---- Kevin J. Perez **
+** Delta ---- Kevin J. Perez **
 
-** Bravo   ---- Ely ** 
-
+** Bravo   ---- Ely Rojas ** 
