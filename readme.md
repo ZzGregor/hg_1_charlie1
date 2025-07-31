@@ -5,8 +5,6 @@
 
 ### Integrante:
 
-** Bravo ---- Kevin J. Perez **
+** Delta ---- Kevin J. Perez **
 
-** Bravo 1.2  ---- Ely ** 
-
-** Charlie  ---- Gregory Uztariz **
+** Bravo   ---- Ely Rojas ** 
